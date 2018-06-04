@@ -1,0 +1,25 @@
+{
+  "name": "panda-store-site",
+  "version": "0.0.1",
+  "description": "WooCommerce Store for Panda Black & White Clothing Company",
+  "main": "index.php",
+  "script": {
+    "test": "echo \"Error not test specified\" && exit 1"
+  },
+  "author": "Alain Cartaya",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-ignore": "^2.0.2",
+    "gulp-image": "^4.1.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-newer": "^1.4.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.5"
+  }
+}
